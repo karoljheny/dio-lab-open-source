@@ -48,7 +48,8 @@ Aprender o básico sobre contribuição no GitHub.
 ## Desafio de Projeto da DIO
 Agora que você já sabe as formas de contribuir em um projeto Open Source, está na hora de colocar em prática o seu conhecimento sobre contribuição no GitHub! <br>
 Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um projeto Open Source que você contribuiu** para a entrega do desafio na plataforma [DIO](https://www.dio.me/).
-
+1. Cria uma nova **branch** e nomeie como `feat/community/karoljheny`: `git checkout -b feat/community/karoljheny`;
+   > Exemplo: `git checkout -b karoljheny.md` <br>
 > [!NOTE]   
 > Por exemplo, a URL https://github.com/falvojr/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`falvojr`" para a contribuição no repositório `dio-lab-open-source`.
 
